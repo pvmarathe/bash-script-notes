@@ -1,7 +1,5 @@
 # bash-script-notes
-These are my notes for bash script
 
-Here is a comprehensive set of Markdown-formatted notes based on the tutorial. You can copy and paste this directly into a `.md` file for your GitHub repository.
 
 ***
 
